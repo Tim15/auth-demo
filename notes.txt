@@ -1,0 +1,39 @@
+Features:
+  - Accounts:
+    - Remember me:
+      - Sessions
+      - Cookies
+    - Actions:
+      - Signup
+      - Login
+      - Logout
+      - Delete
+      - Password reset
+    - Methods:
+      - Password
+      - Social
+      - MFA
+      - One time login:
+        - Token
+        - Onetime login password
+        - Onetime login url
+    - Security:
+      - Email verification
+      - Sms verification
+    - Api:
+  - Resources (text):
+    - Privacy:
+      - Private:
+        - Only invited users can access it
+      - Unlisted:
+        - Need url, token, or invited user to access it
+      - Public:
+        - Anyone can view it
+        - Need url, token, or invited user to edit it
+        - Listed on profile
+    - Share:
+      - Token
+      - Url:
+        - Restrict users
+        - Restrict access levels
+      - With users

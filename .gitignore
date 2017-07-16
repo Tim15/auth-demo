@@ -1,0 +1,4 @@
+node_modules/
+auth-info.json
+*.secret.json
+*.secret
